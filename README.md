@@ -1,2 +1,2 @@
 # Computer-Vision
-This Repository Contains Computer vision code i practiced and use for my reference.
+All Computer vision algorithms implemented in Python (for education). These implementations are for learning purposes. They may be less efficient than the implementations in the Python standard library.
